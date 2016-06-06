@@ -1,0 +1,600 @@
+id_msg    sourceMSG  Xsender  Ysender
+
+9000  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+2000  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+0  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+3000  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+2001  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+2002  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+2003  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+12000  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+3001  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+2004  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+4000  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+1  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+5000  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+2005  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+8000  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+1000  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+1001  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+10000  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+6000  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+2006  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+10001  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+2007  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+1002  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+14000  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+5001  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+2  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+3002  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+10002  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+1003  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+8001  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+13000  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+10003  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+3003  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+7000  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+8002  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+1004  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+9001  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+11000  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+4001  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+11001  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+10004  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+10005  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+3004  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+1005  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+6001  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+11002  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+8003  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+2008  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+7001  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+7002  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+7003  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+7004  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+10006  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+14001  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+3005  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+6002  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+2009  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+6003  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+13001  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+12001  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+3  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+4002  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+7005  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+5002  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+4003  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+13002  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+12002  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+11003  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+11004  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+4  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+2010  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+10007  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+11005  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+13003  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+5  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+6  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+7  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+4004  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+1006  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+7006  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+3006  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+13004  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+13005  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+10008  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+9002  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+5003  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+3007  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+11006  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+9003  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+4005  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+1007  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+14002  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+5004  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+12003  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+3008  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+6004  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+4006  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+11007  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+9004  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+2011  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+14003  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+6005  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+13006  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+14004  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+5005  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+9005  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+10009  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+7007  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+7008  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+2012  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+4007  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+8  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+12004  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+11008  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+1008  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+9006  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+12005  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+2013  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+8004  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+10010  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+11009  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+8005  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+11010  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+10011  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+9  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+13007  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+14005  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+5006  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+12006  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+14006  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+8006  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+10  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+2014  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+8007  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+2015  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+13008  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+4008  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+7009  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+10012  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+4009  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+3009  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+13009  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+5007  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+10013  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+3010  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+14007  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+11011  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+11  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+5008  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+3011  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+12  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+4010  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+11012  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+13010  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+5009  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+5010  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+2016  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+9007  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+14008  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+10014  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+2017  2  352.378647165  44.0436097157  
+id_msg    sourceMSG  Xsender  Ysender
+
+7010  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+1009  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+13  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+11013  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+1010  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+14009  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+14010  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+13011  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+7011  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+5011  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+12007  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+7012  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+8008  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+5012  5  760.16147831  385.362451727  
+id_msg    sourceMSG  Xsender  Ysender
+
+10015  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+12008  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+13012  13  839.107467333  405.410076131  
+id_msg    sourceMSG  Xsender  Ysender
+
+14  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+12009  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+9008  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+12010  12  397.488876981  142.133677375  
+id_msg    sourceMSG  Xsender  Ysender
+
+4011  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+9009  9  83.5205211536  129.2807309  
+id_msg    sourceMSG  Xsender  Ysender
+
+4012  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+6006  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+14011  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+4013  4  396.026618214  154.5400718  
+id_msg    sourceMSG  Xsender  Ysender
+
+14012  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+11014  11  81.0906646239  455.102091859  
+id_msg    sourceMSG  Xsender  Ysender
+
+1011  1  403.978074944  150.056583431  
+id_msg    sourceMSG  Xsender  Ysender
+
+15  0  145.669255104  341.195253386  
+id_msg    sourceMSG  Xsender  Ysender
+
+14013  14  791.525935961  23.2753021058  
+id_msg    sourceMSG  Xsender  Ysender
+
+10016  10  203.670447421  69.5200663862  
+id_msg    sourceMSG  Xsender  Ysender
+
+3012  3  194.537247933  604.5579761  
+id_msg    sourceMSG  Xsender  Ysender
+
+6007  6  546.801553537  93.0891753571  
+id_msg    sourceMSG  Xsender  Ysender
+
+7013  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+8009  8  421.044614287  423.686047365  
+id_msg    sourceMSG  Xsender  Ysender
+
+7014  7  912.34335936  370.762310475  
+id_msg    sourceMSG  Xsender  Ysender
+
+13013  13  839.107467333  405.410076131  
